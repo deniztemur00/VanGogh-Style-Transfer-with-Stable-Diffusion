@@ -87,7 +87,7 @@ Below are some sample images showing the before and after Van Gogh style transfo
 
 - Decided not to use LoRA and Van-Gogh fine-tuned models. By doing this, I aimed to be more scalable to various style transfer tasks.
 
-- Observed that default stable diffusion with simple canny control net can achieve decent results. So, decided to use this combination.
+- Observed that default stable diffusion with simple canny control net can achieve decent results. So I decided to use this combination.
 
 - Parameters are adjusted to be fast and efficient.
 
